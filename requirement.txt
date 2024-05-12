@@ -1,0 +1,8 @@
+express
+mongoose
+dot env
+bcrypt
+cors
+handlebars 
+nodemon
+paginationjs
